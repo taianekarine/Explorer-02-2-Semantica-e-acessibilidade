@@ -1,7 +1,7 @@
-<h1 align="center"> NLW #10 COPA </h1>
+<h1 align="center"> Desafio avançado - Recriando layout </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Nesse desafio, recriei uma aplicação, a partir de um layout, para treinar o que aprendi até agora no Stage 02 do programa Explorer.
 </p>
 
 <p align="center">
@@ -25,17 +25,16 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Introdução ao HTML e CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+![pro2](https://user-images.githubusercontent.com/94652702/200223758-f33f5235-a441-430c-857d-0fe7572310ba.png)
 
 ## :memo: Licença
 
