@@ -1,7 +1,7 @@
-<h1 align="center"> Desafio avançado - Recriando layout </h1>
+<h1 align="center"> Iniciante - Corrigindo bugs </h1>
 
 <p align="center">
-Nesse desafio, recriei uma aplicação, a partir de um layout, para treinar o que aprendi até agora no Stage 02 do programa Explorer.
+Nesse desafio, recebi um código cujo layout estava desorganizado e meu desafio foi coloca-ló em ordem.
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@ Nesse desafio, recriei uma aplicação, a partir de um layout, para treina
 
 <br>
 
+<p align="center">
+  <img alt="calendario da copa" src=".github/NLW-COPA.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,14 +32,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Introdução ao HTML e CSS.
 
-## 🔖 Layout
+## 🔖 Layout Corrompido
 
-![pro2](https://user-images.githubusercontent.com/94652702/200223758-f33f5235-a441-430c-857d-0fe7572310ba.png)
+![PRO2-1](https://user-images.githubusercontent.com/94652702/200224807-6e5563b6-0893-413c-8fbd-aa1c03bd2846.png)
 
-## :memo: Licença
+## 🔖 Layout Corrigido
 
-Esse projeto está sob a licença MIT.
+![PRO2-2](https://user-images.githubusercontent.com/94652702/200225167-17572a3c-5ce3-4aa9-a7e4-0f288dd2af79.png)
+
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
