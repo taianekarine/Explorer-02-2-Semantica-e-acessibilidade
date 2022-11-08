@@ -53,6 +53,9 @@ Interpretação de layouts (Figma)
 ![PRO2-2](https://user-images.githubusercontent.com/94652702/200228624-bc11c85b-6129-4942-ba2b-fca2f36dc36a.png)
 
 
+## Você pode acessar o site através do link abaixo:
+https://explorer-02-2-semantica-e-acessibilidade.vercel.app/
+
 ---
 
 Feito com ♥ by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
